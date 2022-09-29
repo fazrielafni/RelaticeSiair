@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Relative Siair</string>
+    <string-array name="arr_nama">
+        <item>Fazriel Afni</item>
+        <item>Imam Kanji</item>
+        <item>Fathul Celalu Cetia</item>
+        <item>Aziz udah gede</item>
+    </string-array>
 </resources>
